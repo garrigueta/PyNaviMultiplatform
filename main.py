@@ -1,8 +1,8 @@
 from kivy.app import App
 
 
-class TheLabApp(App):
+class MultiMapApp(App):
     pass
 
 
-TheLabApp().run()
+MultiMapApp().run()
